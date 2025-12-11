@@ -3,7 +3,8 @@
 A real-time weather application built with React that fetches current weather data using the OpenWeather API. Get instant weather information for any city with a clean, modern interface.
 
 # Screenshot
-![alt text](image.png)
+<img width="846" height="717" alt="image" src="https://github.com/user-attachments/assets/14f8b8e2-ac92-44df-9766-40ba38babdac" />
+
 
 ## ✨ Features
 
